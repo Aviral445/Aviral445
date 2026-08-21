@@ -194,12 +194,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviral445&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<!-- 🕹️ GLOWING NEON CYBER SNAKE MATRIX -->
+<!-- 🕹️ GLOWING NEON CYBER SNAKE MATRIX WITH LABELED CALENDAR AXES -->
 <br/>
 <table width="100%">
   <thead>
     <tr>
-      <th align="center">
+      <th colspan="2" align="center">
         <img src="https://img.shields.io/badge/🕹️_RETRO_ARCADE-SNAKE_EATER_v4.45-00F5D4?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/🏆_HIGH_SCORE-999%2C999-FF007F?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/⚡_NEON_POWER-OVER_9000-7B2CBF?style=flat-square&labelColor=0d1117" />
@@ -207,8 +207,38 @@
     </tr>
   </thead>
   <tbody>
+    <!-- MONTH LABELS (TOP ROW) -->
     <tr>
-      <td align="center">
+      <td width="5%" align="center"></td>
+      <td width="95%" align="center">
+        <table width="100%">
+          <tr align="center">
+            <td><b><font color="#00F5D4">JAN</font></b></td>
+            <td><b><font color="#00F5D4">FEB</font></b></td>
+            <td><b><font color="#00F5D4">MAR</font></b></td>
+            <td><b><font color="#00F5D4">APR</font></b></td>
+            <td><b><font color="#00F5D4">MAY</font></b></td>
+            <td><b><font color="#00F5D4">JUN</font></b></td>
+            <td><b><font color="#00F5D4">JUL</font></b></td>
+            <td><b><font color="#00F5D4">AUG</font></b></td>
+            <td><b><font color="#00F5D4">SEP</font></b></td>
+            <td><b><font color="#00F5D4">OCT</font></b></td>
+            <td><b><font color="#00F5D4">NOV</font></b></td>
+            <td><b><font color="#00F5D4">DEC</font></b></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <!-- DAY LABELS (LEFT COLUMN) & SNAKE ANIMATION (RIGHT) -->
+    <tr>
+      <td width="5%" align="center" valign="middle">
+        <p>
+          <b><font color="#7B2CBF">MON</font></b><br/><br/>
+          <b><font color="#7B2CBF">WED</font></b><br/><br/>
+          <b><font color="#7B2CBF">FRI</font></b>
+        </p>
+      </td>
+      <td width="95%" align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake.svg">
@@ -216,9 +246,10 @@
         </picture>
       </td>
     </tr>
+    <!-- FOOTER CONTROLS & STATUS -->
     <tr>
-      <td align="center">
-        <code>[ 🎮 MISSION: GLOWING CYBER-SNAKE HUNTING & DEVOURING HEATMAP COMMITS ]</code>
+      <td colspan="2" align="center">
+        <code>[ 🎮 MISSION: GLOWING CYBER-SNAKE HUNTING & DEVOURING DAILY HEATMAP COMMITS ]</code>
       </td>
     </tr>
   </tbody>
