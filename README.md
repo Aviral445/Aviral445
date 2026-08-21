@@ -22,17 +22,17 @@
 ---
 
 ```ansi
-[1;36m╔═══════════════════════════════════════════════════════════════════════════════╗[0m
-[1;36m║[0m                         [1;35m⚔️  CHARACTER STATUS SHEET  ⚔️[0m                        [1;36m║[0m
-[1;36m╠═══════════════════════════════════════════════════════════════════════════════╣[0m
-[1;36m║[0m  [1;33m🎮 USERNAME[0m   : Aviral Srivastava (@Aviral445)                               [1;36m║[0m
-[1;36m║[0m  [1;33m🧙 CLASS[0m      : Neural Architect / Full-Stack Vanguard                       [1;36m║[0m
-[1;36m║[0m  [1;33m⭐ LEVEL[0m      : 99 [EXP: ████████████████████ 100%]                           [1;36m║[0m
-[1;36m║[0m  [1;32m❤️  HEALTH(HP)[0m : [████████████████████] 1000/1000 (Fueled by Caffeine)          [1;36m║[0m
-[1;36m║[0m  [1;34m⚡ MANA (MP)[0m   : [████████████████████] ∞ / ∞ (CUDA Tensor Cores Online)       [1;36m║[0m
-[1;36m║[0m  [1;35m🛡️  GUILD[0m      : Open Source AI Collective                                    [1;36m║[0m
-[1;36m║[0m  [1;36m🔮 PASSIVE[0m    : "Idea-to-Reality Warp" -> Converts wild ideas into code      [1;36m║[0m
-[1;36m╚═══════════════════════════════════════════════════════════════════════════════╝[0m
+ [1;36m╔═══════════════════════════════════════════════════════════════════════════════╗ [0m
+ [1;36m║ [0m                          [1;35m⚔️  CHARACTER STATUS SHEET  ⚔️ [0m                         [1;36m║ [0m
+ [1;36m╠═══════════════════════════════════════════════════════════════════════════════╣ [0m
+ [1;36m║ [0m   [1;33m🎮 USERNAME [0m   : Aviral Srivastava (@Aviral445)                                [1;36m║ [0m
+ [1;36m║ [0m   [1;33m🧙 CLASS [0m      : Neural Architect / Full-Stack Vanguard                        [1;36m║ [0m
+ [1;36m║ [0m   [1;33m⭐ LEVEL [0m      : 99 [EXP: ██═══════════════════ 99.9%]                         [1;36m║ [0m
+ [1;36m║ [0m   [1;32m❤️  HEALTH(HP) [0m : [████████████████████] 1000/1000 (Fueled by Caffeine)           [1;36m║ [0m
+ [1;36m║ [0m   [1;34m⚡ MANA (MP) [0m   : [████████████████████] ∞ / ∞ (CUDA Tensor Cores Online)        [1;36m║ [0m
+ [1;36m║ [0m   [1;35m🛡️  GUILD [0m      : Open Source AI Collective                                     [1;36m║ [0m
+ [1;36m║ [0m   [1;36m🔮 PASSIVE [0m    : "Idea-to-Reality Warp" -> Converts wild ideas into code       [1;36m║ [0m
+ [1;36m╚═══════════════════════════════════════════════════════════════════════════════╝ [0m
 ```
 
 ---
@@ -183,38 +183,21 @@
 
 <div align="center">
 
-<!-- TROPHY RACK -->
-<a href="https://github.com/Aviral445">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aviral445&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-</a>
+<!-- LIVE HUD METRICS -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aviral445&theme=tokyonight" alt="Stats Card" />
+  <img src="https://streak-stats.demolab.com/?user=Aviral445&theme=tokyonight&hide_border=true&background=1a1b27&ring=00f5d4&fire=ff007f&currStreakLabel=00f5d4" alt="Aviral's GitHub Streak" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aviral445&theme=tokyonight" alt="Languages Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviral445&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
-<!-- STATS CARDS GRID -->
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aviral445&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=ff007f&text_color=c9d1d9" alt="Aviral's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral445&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=ff007f&currStreakLabel=00f5d4" alt="Aviral's GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral445&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral445&bg_color=1a1b27&color=00f5d4&line=ff007f&point=7b2cbf&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+</p>
 
 </div>
 
