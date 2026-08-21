@@ -1,0 +1,251 @@
+<div align="center">
+
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F5D4,50:7B2CBF,100:FF007F&height=240&section=header&text=AVIRAL%20SRIVASTAVA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20LEVEL%2099%20NEURAL%20ARCHITECT%20%7C%20AI%20/%20ML%20ENGINEER%20%E2%9A%94%EF%B8%8F&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+
+<!-- ANIMATED TYPING TERMINAL -->
+<a href="https://github.com/Aviral445">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%3E+INITIALIZING+AVIRAL_OS+v4.45...;%3E+CLASS%3A+NEURAL+WARLOCK+%26+AUTONOMOUS+SYSTEMS+ARCHITECT;%3E+CURRENT+MISSION%3A+BUILDING+NEXT-GEN+AI+AGENTS+%26+NEURAL+MODELS;%3E+PASSIVE+BUFF%3A+TURNING+WILD+IDEAS+INTO+PRODUCTION+CODE" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- QUICK BADGE HUD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PLAYER_CLASS-NEURAL_ARCHITECT-00F5D4?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ALIGNMENT-CHAOTIC_BUILDER-FF007F?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%2F%20READY%20FOR%20RAID-7B2CBF?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+</div>
+
+---
+
+```ansi
+[1;36m╔═══════════════════════════════════════════════════════════════════════════════╗[0m
+[1;36m║[0m                         [1;35m⚔️  CHARACTER STATUS SHEET  ⚔️[0m                        [1;36m║[0m
+[1;36m╠═══════════════════════════════════════════════════════════════════════════════╣[0m
+[1;36m║[0m  [1;33m🎮 USERNAME[0m   : Aviral Srivastava (@Aviral445)                               [1;36m║[0m
+[1;36m║[0m  [1;33m🧙 CLASS[0m      : Neural Architect / Full-Stack Vanguard                       [1;36m║[0m
+[1;36m║[0m  [1;33m⭐ LEVEL[0m      : 99 [EXP: ████████████████████ 100%]                           [1;36m║[0m
+[1;36m║[0m  [1;32m❤️  HEALTH(HP)[0m : [████████████████████] 1000/1000 (Fueled by Caffeine)          [1;36m║[0m
+[1;36m║[0m  [1;34m⚡ MANA (MP)[0m   : [████████████████████] ∞ / ∞ (CUDA Tensor Cores Online)       [1;36m║[0m
+[1;36m║[0m  [1;35m🛡️  GUILD[0m      : Open Source AI Collective                                    [1;36m║[0m
+[1;36m║[0m  [1;36m🔮 PASSIVE[0m    : "Idea-to-Reality Warp" -> Converts wild ideas into code      [1;36m║[0m
+[1;36m╚═══════════════════════════════════════════════════════════════════════════════╝[0m
+```
+
+---
+
+## 📜 ⚔️ Main Quest Log
+
+```markdown
+┌── [ ACTIVE CAMPAIGN MISSIONS ] ──────────────────────────────────────────────┐
+│                                                                              │
+│  ⚔️  [MAIN QUEST]                                                             │
+│      Architecting intelligent autonomous multi-agent ecosystems and neural   │
+│      decision pipelines (Check out Olympus-Agent).                           │
+│                                                                              │
+│  🔮 [SIDE QUEST]                                                             │
+│      Advancing high-fidelity zero-shot voice cloning, speech synthesis, and   │
+│      audio neural models (Check out AI_Voice_clonner).                       │
+│                                                                              │
+│  🛡️  [PARTY RECRUITMENT]                                                      │
+│      Open to collaborate on high-impact Open-Source AI/ML projects,          │
+│      research breakthroughs, and cutting-edge hackathons.                    │
+│                                                                              │
+│  📖 [GRINDING & TRAINING ARC]                                                │
+│      Mastering Advanced Deep Learning, LLM Orchestration, Multi-Agent swarm   │
+│      tactics, and Scalable Cloud Systems.                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎒 🔮 Skill Trees & Inventory
+
+<div align="center">
+
+### 🗡️ Primary Weapons (Languages)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### 🔮 Neural Spellbook (AI / ML & Data Science)
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🛡️ Armor & Frameworks (Backend & Fullstack)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### ⚡ Enchanted Relics (Cloud, DevOps & Tools)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 🏛️ 🏆 Hall of Legendary Artifacts
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/Aviral445/Olympus-Agent">Olympus-Agent</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TYPE-MYTHIC_AI_AGENT-00F5D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>🧠 <b>Autonomous Cognitive Entity</b> — An advanced autonomous multi-task agent pipeline designed for intelligent workflows and proactive problem solving.</p>
+      <code>[ ATK: 98 | INT: 99 | VERSATILITY: S-TIER ]</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ <a href="https://github.com/Aviral445/AI_Voice_clonner">AI Voice Cloner</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TYPE-NEURAL_SYNTHESIZER-FF007F?style=flat-square" />
+        <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>🔊 <b>Vocal Metamorphosis Engine</b> — High-precision neural speech synthesis & voice cloning system reproducing nuanced acoustic characteristics.</p>
+      <code>[ ACCURACY: 96 | CHA: 99 | REALISM: S-TIER ]</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ <a href="https://github.com/Aviral445/Imagex">Imagex</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TYPE-STEALTH_SECURITY-7B2CBF?style=flat-square" />
+        <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>🛡️ <b>Optical Cloaking Protocol</b> — Steganography toolkit capable of seamlessly concealing encrypted text payloads within image pixel matrices.</p>
+      <code>[ STEALTH: 100 | DEF: 99 | ENCRYPTION: S-TIER ]</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/Aviral445/AI-Code-Reviewer">AI Code Reviewer</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TYPE-ANALYSIS_ORACLE-00F5D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>🔍 <b>Intelligent Code Auditor</b> — Automated AI inspection tool analyzing codebases for syntax flaws, optimization avenues, and structural refinement.</p>
+      <code>[ INT: 97 | SPD: 95 | BUG_HUNTING: S-TIER ]</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌌 <a href="https://github.com/Aviral445/Holosketch">Holosketch</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TYPE-HOLOGRAPHIC_CANVAS-FF007F?style=flat-square" />
+        <img src="https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>🎨 <b>Interactive Creative Matrix</b> — Visual web drawing canvas bringing fluid interactive sketching to life right in the browser.</p>
+      <code>[ CREATIVITY: 99 | UX: 95 | AESTHETIC: S-TIER ]</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗜️ <a href="https://github.com/Aviral445/Ai-Automated-File-Compressor-Store-And-Retrival">AI File Compressor</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TYPE-DIMENSIONAL_STORAGE-7B2CBF?style=flat-square" />
+        <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>📦 <b>Dimensional Storage Hub</b> — Smart automated compression, organized filing, and ultra-fast data retrieval pipeline.</p>
+      <code>[ EFFICIENCY: 98 | SPD: 96 | STORAGE_SAVE: S-TIER ]</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 🎮 Player Metrics & Battle Records
+
+<div align="center">
+
+<!-- TROPHY RACK -->
+<a href="https://github.com/Aviral445">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aviral445&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+</a>
+
+<br/><br/>
+
+<!-- STATS CARDS GRID -->
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aviral445&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=ff007f&text_color=c9d1d9" alt="Aviral's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral445&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5d4&fire=ff007f&currStreakLabel=00f5d4" alt="Aviral's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral445&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## 📡 🌐 Multiplayer Lobby & Comms Terminal
+
+<div align="center">
+
+<p><b>Ready to assemble a squad or discuss next-gen AI systems? Send a direct transmission:</b></p>
+
+<a href="https://discord.gg/demigod448">
+  <img src="https://img.shields.io/badge/DISCORD-demigod448-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+</a>
+<a href="https://linkedin.com/in/Aviral%20Srivastava">
+  <img src="https://img.shields.io/badge/LINKEDIN-Aviral_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/srivasaviral">
+  <img src="https://img.shields.io/badge/INSTAGRAM-@srivasaviral-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+</a>
+<a href="mailto:srivasaviral@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-srivasaviral@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+
+<br/><br/>
+
+```text
+  [ 🕹️ INSERT COIN OR STAR REPOSITORY TO CONTINUE 🕹️ ]
+```
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:FF007F,50:7B2CBF,100:00F5D4&height=130&section=footer" width="100%"/>
+
+</div>
