@@ -21,45 +21,93 @@
 
 ---
 
-```ansi
- [1;36m╔═══════════════════════════════════════════════════════════════════════════════╗ [0m
- [1;36m║ [0m                          [1;35m⚔️  CHARACTER STATUS SHEET  ⚔️ [0m                         [1;36m║ [0m
- [1;36m╠═══════════════════════════════════════════════════════════════════════════════╣ [0m
- [1;36m║ [0m   [1;33m🎮 USERNAME [0m   : Aviral Srivastava (@Aviral445)                                [1;36m║ [0m
- [1;36m║ [0m   [1;33m🧙 CLASS [0m      : Neural Architect / Full-Stack Vanguard                        [1;36m║ [0m
- [1;36m║ [0m   [1;33m⭐ LEVEL [0m      : 99 [EXP: ██═══════════════════ 99.9%]                         [1;36m║ [0m
- [1;36m║ [0m   [1;32m❤️  HEALTH(HP) [0m : [████████████████████] 1000/1000 (Fueled by Caffeine)           [1;36m║ [0m
- [1;36m║ [0m   [1;34m⚡ MANA (MP) [0m   : [████████████████████] ∞ / ∞ (CUDA Tensor Cores Online)        [1;36m║ [0m
- [1;36m║ [0m   [1;35m🛡️  GUILD [0m      : Open Source AI Collective                                     [1;36m║ [0m
- [1;36m║ [0m   [1;36m🔮 PASSIVE [0m    : "Idea-to-Reality Warp" -> Converts wild ideas into code       [1;36m║ [0m
- [1;36m╚═══════════════════════════════════════════════════════════════════════════════╝ [0m
-```
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center">
+        <img src="https://img.shields.io/badge/⚔️_CHARACTER_STATUS_SHEET-LEVEL_99-00F5D4?style=flat-square&labelColor=0d1117" />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="30%"><b><font color="#00F5D4">🎮 USERNAME</font></b></td>
+      <td width="70%"><code>Aviral Srivastava (@Aviral445)</code></td>
+    </tr>
+    <tr>
+      <td><b><font color="#00F5D4">🧙 CLASS</font></b></td>
+      <td><code>Neural Architect / Full-Stack Vanguard</code></td>
+    </tr>
+    <tr>
+      <td><b><font color="#00F5D4">⭐ LEVEL</font></b></td>
+      <td><code>Lv. 99 [EXP: ████████████████████ 99.9%]</code></td>
+    </tr>
+    <tr>
+      <td><b><font color="#FF007F">❤️ HEALTH (HP)</font></b></td>
+      <td><code>[████████████████████] 1000/1000 (Fueled by Caffeine)</code></td>
+    </tr>
+    <tr>
+      <td><b><font color="#7B2CBF">⚡ MANA (MP)</font></b></td>
+      <td><code>[████████████████████] ∞ / ∞ (CUDA Tensor Cores Online)</code></td>
+    </tr>
+    <tr>
+      <td><b><font color="#00F5D4">🛡️ GUILD</font></b></td>
+      <td><code>Open Source AI Collective</code></td>
+    </tr>
+    <tr>
+      <td><b><font color="#FF007F">🔮 PASSIVE BUFF</font></b></td>
+      <td><code>"Idea-to-Reality Warp" &bull; Converts wild AI concepts into production code</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📜 ⚔️ Main Quest Log
 
-```markdown
-┌── [ ACTIVE CAMPAIGN MISSIONS ] ──────────────────────────────────────────────┐
-│                                                                              │
-│  ⚔️  [MAIN QUEST]                                                             │
-│      Architecting intelligent autonomous multi-agent ecosystems and neural   │
-│      decision pipelines (Check out Olympus-Agent).                           │
-│                                                                              │
-│  🔮 [SIDE QUEST]                                                             │
-│      Advancing high-fidelity zero-shot voice cloning, speech synthesis, and   │
-│      audio neural models (Check out AI_Voice_clonner).                       │
-│                                                                              │
-│  🛡️  [PARTY RECRUITMENT]                                                      │
-│      Open to collaborate on high-impact Open-Source AI/ML projects,          │
-│      research breakthroughs, and cutting-edge hackathons.                    │
-│                                                                              │
-│  📖 [GRINDING & TRAINING ARC]                                                │
-│      Mastering Advanced Deep Learning, LLM Orchestration, Multi-Agent swarm   │
-│      tactics, and Scalable Cloud Systems.                                    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="left">
+        <img src="https://img.shields.io/badge/🗺️_CAMPAIGN-ACTIVE_MISSIONS_LOG-00F5D4?style=flat-square&labelColor=0d1117" />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="30%" valign="top">
+        <b><font color="#00F5D4">⚔️ [MAIN QUEST]</font></b>
+      </td>
+      <td width="70%">
+        Architecting intelligent autonomous multi-agent ecosystems and neural decision pipelines (<a href="https://github.com/Aviral445/Olympus-Agent"><b>Olympus-Agent</b></a>).
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="top">
+        <b><font color="#FF007F">🔮 [SIDE QUEST]</font></b>
+      </td>
+      <td width="70%">
+        Advancing high-fidelity zero-shot voice cloning, speech synthesis, and audio neural models (<a href="https://github.com/Aviral445/AI_Voice_clonner"><b>AI_Voice_clonner</b></a>).
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="top">
+        <b><font color="#7B2CBF">🛡️ [PARTY RECRUITMENT]</font></b>
+      </td>
+      <td width="70%">
+        Open to collaborate on high-impact Open-Source AI/ML projects, research breakthroughs, and cutting-edge hackathons.
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" valign="top">
+        <b><font color="#00F5D4">📖 [TRAINING ARC]</font></b>
+      </td>
+      <td width="70%">
+        Mastering Advanced Deep Learning, LLM Orchestration, Multi-Agent swarm tactics, and Scalable Cloud Systems.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
