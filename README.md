@@ -194,6 +194,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviral445&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
+<!-- 🐍 RETRO 8-BIT CONTRIBUTION HEATMAP SNAKE -->
+<h3 align="center">🕹️ Daily Heatmap Snake Run (Eating Contributions)</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+<br/>
+
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral445&bg_color=1a1b27&color=00f5d4&line=ff007f&point=7b2cbf&area=true&hide_border=true" width="95%" alt="Activity Graph" />
@@ -212,8 +224,8 @@
 <a href="https://discord.gg/demigod448">
   <img src="https://img.shields.io/badge/DISCORD-demigod448-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
 </a>
-<a href="https://linkedin.com/in/Aviral%20Srivastava">
-  <img src="https://img.shields.io/badge/LINKEDIN-Aviral_Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/aviral-srivastava-040009276">
+  <img src="https://img.shields.io/badge/LINKEDIN-aviral--srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/srivasaviral">
   <img src="https://img.shields.io/badge/INSTAGRAM-@srivasaviral-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
