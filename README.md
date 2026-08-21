@@ -183,13 +183,13 @@
 
 <div align="center">
 
-<!-- LIVE HUD METRICS -->
+<!-- LIVE HUD METRICS (FULL SUITE) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aviral445&theme=tokyonight" alt="Stats Card" />
-  <img src="https://streak-stats.demolab.com/?user=Aviral445&theme=tokyonight&hide_border=true&background=1a1b27&ring=00f5d4&fire=ff007f&currStreakLabel=00f5d4" alt="Aviral's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aviral445&theme=tokyonight" alt="Aviral's Profile Details" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aviral445&theme=tokyonight" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aviral445&theme=tokyonight" alt="Languages Breakdown" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviral445&theme=tokyonight" alt="Most Commit Language" />
 </p>
