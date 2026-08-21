@@ -194,16 +194,35 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aviral445&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<!-- 🐍 RETRO 8-BIT CONTRIBUTION HEATMAP SNAKE -->
-<h3 align="center">🕹️ Daily Heatmap Snake Run (Eating Contributions)</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
-
+<!-- 🕹️ GLOWING NEON CYBER SNAKE MATRIX -->
+<br/>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">
+        <img src="https://img.shields.io/badge/🕹️_RETRO_ARCADE-SNAKE_EATER_v4.45-00F5D4?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🏆_HIGH_SCORE-999%2C999-FF007F?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/⚡_NEON_POWER-OVER_9000-7B2CBF?style=flat-square&labelColor=0d1117" />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake.svg">
+          <img alt="glowing neon github contribution snake" src="https://raw.githubusercontent.com/Aviral445/Aviral445/output/github-contribution-grid-snake-dark.svg" width="100%">
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <code>[ 🎮 MISSION: GLOWING CYBER-SNAKE HUNTING & DEVOURING HEATMAP COMMITS ]</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br/>
 
 <!-- ACTIVITY GRAPH -->
